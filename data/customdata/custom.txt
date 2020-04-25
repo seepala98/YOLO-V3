@@ -239,7 +239,6 @@
 ./data/customdata/images/imag244.jpg
 ./data/customdata/images/imag245.jpg
 ./data/customdata/images/imag246.jpg
-./data/customdata/images/imag247.jpg
 ./data/customdata/images/imag248.jpg
 ./data/customdata/images/imag249.jpg
 ./data/customdata/images/imag250.jpg
