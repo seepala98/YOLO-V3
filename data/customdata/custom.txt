@@ -31,7 +31,6 @@
 ./data/customdata/images/imag31.jpg
 ./data/customdata/images/imag32.jpg
 ./data/customdata/images/imag33.jpg
-./data/customdata/images/imag34.jpg
 ./data/customdata/images/imag35.jpg
 ./data/customdata/images/imag36.jpg
 ./data/customdata/images/imag37.jpg
