@@ -308,7 +308,6 @@
 ./data/customdata/images/imag312.jpg
 ./data/customdata/images/imag313.jpg
 ./data/customdata/images/imag314.jpg
-./data/customdata/images/imag315.jpg
 ./data/customdata/images/imag316.jpg
 ./data/customdata/images/imag317.jpg
 ./data/customdata/images/imag318.jpg
