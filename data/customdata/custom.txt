@@ -122,7 +122,6 @@
 ./data/customdata/images/imag125.jpg
 ./data/customdata/images/imag126.jpg
 ./data/customdata/images/imag127.jpg
-./data/customdata/images/imag128.jpg
 ./data/customdata/images/imag129.jpg
 ./data/customdata/images/imag130.jpg
 ./data/customdata/images/imag131.jpg
