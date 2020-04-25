@@ -1,4 +1,3 @@
-./data/customdata/images/imag0.jpg
 ./data/customdata/images/imag1.jpg
 ./data/customdata/images/imag2.jpg
 ./data/customdata/images/imag3.jpg
