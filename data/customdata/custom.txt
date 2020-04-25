@@ -48,7 +48,6 @@
 ./data/customdata/images/imag49.jpg
 ./data/customdata/images/imag50.jpg
 ./data/customdata/images/imag51.jpg
-./data/customdata/images/imag52.jpg
 ./data/customdata/images/imag53.jpg
 ./data/customdata/images/imag54.jpg
 ./data/customdata/images/imag55.jpg
@@ -64,7 +63,6 @@
 ./data/customdata/images/imag65.jpg
 ./data/customdata/images/imag66.jpg
 ./data/customdata/images/imag67.jpg
-./data/customdata/images/imag68.jpg
 ./data/customdata/images/imag69.jpg
 ./data/customdata/images/imag70.jpg
 ./data/customdata/images/imag71.jpg
@@ -322,7 +320,6 @@
 ./data/customdata/images/imag323.jpg
 ./data/customdata/images/imag324.jpg
 ./data/customdata/images/imag325.jpg
-./data/customdata/images/imag326.jpg
 ./data/customdata/images/imag327.jpg
 ./data/customdata/images/imag328.jpg
 ./data/customdata/images/imag329.jpg
